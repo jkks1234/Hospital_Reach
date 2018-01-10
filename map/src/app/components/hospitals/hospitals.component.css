@@ -1,0 +1,38 @@
+agm-map {
+  height: 600px;
+}
+.style1 {
+    font-family: verdana;
+    font-size: 20px;
+    width: 79% ;
+    float: left;
+    border: 1px solid #4C3C1B;
+}
+
+.style2 {
+    color: black;
+    text-align: center;
+    width: 20%;
+    float: right;
+    border: 1px solid #4C3C1B;
+    overflow: auto;
+    height: 600px;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+.style3 {
+    color: red;
+    text-align: center;
+    overflow: auto;
+    width: 100%;
+    border: 1px solid #4C3C1B;
+  }
+.style4 {
+    
+    visibility: hidden;
+        overflow: auto;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+
+    
+}
+
+
