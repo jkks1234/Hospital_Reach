@@ -29,3 +29,5 @@ app.get('/',(req,res)=>{
 app.listen(port,()=>{
 	console.log("Server started at port="+port);
 }); 
+
+console.log('hey')
